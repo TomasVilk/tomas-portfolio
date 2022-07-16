@@ -1,4 +1,4 @@
-import logo from "./pngegg.png";
+import logo from "./assets/pngegg.png";
 import "./App.css";
 
 function App() {
